@@ -1,0 +1,7 @@
+{
+  "name": "eslint-config-mailonline-cc",
+  "version": "1.0.0",
+  "description": "MailOnline ESLint config for Content Creator",
+  "main": "index.js",
+  "license": "BSD-3-Clause"
+}
