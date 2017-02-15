@@ -1,0 +1,6 @@
+{
+    "extends": "./cc.json",
+    "env": {
+        "mocha": true
+    }
+}
